@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Odugbesan Opeoluwa
+### Hi 👋 I'm Odugbesan Opeoluwa
 
 With **half a decade of experience** in software development, I enjoy building scalable, reliable, and clean solutions that solve real problems. Whether it’s architecting backend services, deploying serverless apps, or debugging those weird edge-case bugs — I’m in.
 
 ### 🛠️ Tech Stack & Tools I Use Regularly
 
 - **Languages & Frameworks**:  
-  `.NET (C#)` • `Node.js` • `Dart(Flutter)` • `Nest.js` • `Next.js` • `React.js` • `TypeScript` • `PHP (Laravel)` • `Java (Spring Boot)`  
+  `.NET (C#, ASP.NET)` • `Node.js` • `Dart(Flutter)` • `Nest.js` • `Next.js` • `React.js` • `TypeScript` • `PHP (Laravel)` • `Java (Spring Boot)`  
 - **Databases**:  
   `MySQL` • `MongoDB`  
 - **Cloud & DevOps**:  
